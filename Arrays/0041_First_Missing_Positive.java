@@ -1,3 +1,4 @@
+import java.util.HashSet;
 class Solution {
     public int firstMissingPositive(int[] nums) {
         Set<Integer>set=new HashSet<>();
